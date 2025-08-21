@@ -1,0 +1,13 @@
+This is an example file to demonstrate how to add files to this repository.
+
+You can add any type of file:
+- Text files (.txt)
+- Code files (.js, .py, .html, etc.)
+- Images (.png, .jpg, etc.)
+- Documentation (.md)
+
+To add your own files:
+1. Create the file in your local copy
+2. Add it to git: git add filename
+3. Commit it: git commit -m "Add my file"
+4. Push it: git push
